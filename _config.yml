@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Junu Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am a student in **Busan National University**. "
+  location         : "Busan, Republic of Korea"
   email            :
   links:
     - label: "Email"
